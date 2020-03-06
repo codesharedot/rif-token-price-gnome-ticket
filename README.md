@@ -1,5 +1,8 @@
-# rif-token price gnome ticket 
+# rif-token gnome price ticker
 
-Gnome 3 desktop ticker for rif-token price with Python and argos. Rename to rif-token.1r.60s.py and put in ~/.config/argos
+Get rif-token price in Python [https://pythonbasics.org](https://pythonbasics.org).
+See [https://codesharedot.github.io/rif-token-price-gnome-ticket/](https://codesharedot.github.io/rif-token-price-gnome-ticket/)
 
-https://pythonbasics.org
+rif-token price ticker for Gnome desktop. Gets the price with Python and argos.
+
+Rename to rif-token.1r60s.py and put in ~/.config/argos
